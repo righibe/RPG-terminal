@@ -1,5 +1,6 @@
 from classes.classes_personagem import Personagem_principal
 
+
 def inicio():
     print("Bem vindo ao jogo de RPG!")
     nome = input("Digite o nome do seu personagem: ")
