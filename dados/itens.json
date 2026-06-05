@@ -1,0 +1,12 @@
+{
+    "espada_madeira": {
+        "nome": "Espada de Madeira",
+        "dano": 5,
+        "valor": 10
+    },
+    "pocao_pequena": {
+        "nome": "Poção de Cura Pequena",
+        "cura": 20,
+        "valor": 15
+    }
+}

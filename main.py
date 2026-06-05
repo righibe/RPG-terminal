@@ -1,5 +1,4 @@
-from classes.classes_personagem import Personagem_principal
-
+from entidades.personagem import Personagem_principal
 
 def inicio():
     print("Bem vindo ao jogo de RPG!")
@@ -36,3 +35,6 @@ def inicio():
             classe_escolhida = True
         else:
             print("Classe inválida. Por favor, escolha uma classe válida.") 
+
+if __name__ == "__main__":
+    inicio()

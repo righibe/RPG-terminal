@@ -45,7 +45,6 @@ class Personagem_principal:
         magia = 50
         print(f"Vida: {vida}, Ataque: {ataque}, Defesa: {defesa}, Agilidade: {agilidade}, Força: {forca}, Magia: {magia}")
 
-    
     def paladino(self):
         print(f"Personagem: {self.nome}, Idade: {self.idade}, Sexo: {self.sexo}, Raça: {self.raça}, Classe: Paladino")
         vida = 90
@@ -55,5 +54,3 @@ class Personagem_principal:
         forca = 70
         magia = 60
         print(f"Vida: {vida}, Ataque: {ataque}, Defesa: {defesa}, Agilidade: {agilidade}, Força: {forca}, Magia: {magia}")
-
-    
